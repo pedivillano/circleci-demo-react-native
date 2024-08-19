@@ -6,5 +6,4 @@ set -x
 
 which yarn 
 
-yarn --version
 
